@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @shzehra93 Gunay Zahra.
+- 👋 Hi, I’m @shzehra93 Gunay Zahra Shakhmuradova. I'm 30 years old.I'm married and have a 2 child.
 - 👀 I’m interested in devolope.
 - 🌱 I’m currently learning coding.
 - 📫 How to reach me krmlzhr@gmail.com
