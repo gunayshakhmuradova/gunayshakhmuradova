@@ -10,6 +10,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHZEHRA93&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=shzehra93&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
