@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @gunayshakhmuradova Gunay Zahra Shakhmuradova.<br>🧕 I'm 30 years old.<br>💞 I'm married and have a 2 child.<br>👀 I’m interested in devolope.<br>🌱 I’m currently learning coding.<br>📫 How to reach me gunayshakhmuradova@gmail.com .
+👋 Hi, I’m @gunayshakhmuradova Gunay Zahra Shakhmuradova.<br>🧕 I'm 31 years old.<br>💞 I'm married and have a 2 child.<br>👀 I’m interested in devolope.<br>🌱 I’m currently learning coding.<br>📫 How to reach me gunayshakhmuradova@gmail.com .
 
 
 ## 🌐 Socials:
