@@ -18,9 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=gunayshakhmuradova&label=Profile%20Views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
